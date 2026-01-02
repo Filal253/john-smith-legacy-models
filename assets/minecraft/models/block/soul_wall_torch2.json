@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/wall_torch",    "textures": {        "particle": "minecraft:block/soul_torch2",        "0": "minecraft:block/soul_torch2"    }}

@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/mossy_stone_brick_stairs_outer_top_nw1",    "textures": {        "particle": "minecraft:block/mossy_stone_bricks2",        "0": "minecraft:block/mossy_stone_bricks2",        "1": "minecraft:block/mossy_stone_bricks_top2"    }}

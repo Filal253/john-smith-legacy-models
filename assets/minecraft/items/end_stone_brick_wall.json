@@ -1,0 +1,19 @@
+{
+    "model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+			"type": "minecraft:model",
+			"model": "minecraft:block/end_stone_brick_wall_post"
+			},
+			{
+			"type": "minecraft:model",
+			"model": "minecraft:block/end_stone_brick_wall_n"
+			},
+			{
+			"type": "minecraft:model",
+			"model": "minecraft:block/end_stone_brick_wall_s"
+			}
+		]
+	  }
+}

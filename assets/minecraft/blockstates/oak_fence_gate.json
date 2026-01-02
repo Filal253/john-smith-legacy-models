@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,in_wall=false,open=false": { "model": "minecraft:block/oak_fence_gate_closed", "y": 90 },
+        "facing=west,in_wall=false,open=false":  { "model": "minecraft:block/oak_fence_gate_closed" },
+        "facing=north,in_wall=false,open=false": { "model": "minecraft:block/oak_fence_gate_closed", "y": 90 },
+        "facing=east,in_wall=false,open=false":  { "model": "minecraft:block/oak_fence_gate_closed" },
+        "facing=south,in_wall=false,open=true": { "model": "minecraft:block/oak_fence_gate_open_east", "y": 90 },
+        "facing=west,in_wall=false,open=true":  { "model": "minecraft:block/oak_fence_gate_open_west" },
+        "facing=north,in_wall=false,open=true": { "model": "minecraft:block/oak_fence_gate_open_west", "y": 90 },
+        "facing=east,in_wall=false,open=true":  { "model": "minecraft:block/oak_fence_gate_open_east" },
+        "facing=south,in_wall=true,open=false": { "model": "minecraft:block/oak_fence_gate_closed", "y": 90 },
+        "facing=west,in_wall=true,open=false":  { "model": "minecraft:block/oak_fence_gate_closed" },
+        "facing=north,in_wall=true,open=false": { "model": "minecraft:block/oak_fence_gate_closed", "y": 90 },
+        "facing=east,in_wall=true,open=false":  { "model": "minecraft:block/oak_fence_gate_closed" },
+        "facing=south,in_wall=true,open=true": { "model": "minecraft:block/oak_fence_gate_open_east", "y": 90 },
+        "facing=west,in_wall=true,open=true":  { "model": "minecraft:block/oak_fence_gate_open_west" },
+        "facing=north,in_wall=true,open=true": { "model": "minecraft:block/oak_fence_gate_open_west", "y": 90 },
+        "facing=east,in_wall=true,open=true":  { "model": "minecraft:block/oak_fence_gate_open_east" }
+    }
+}

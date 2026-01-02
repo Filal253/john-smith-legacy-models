@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_brick_slab_top",    "textures": {        "particle": "minecraft:block/mud_bricks",        "0": "minecraft:block/mud_bricks"    }}

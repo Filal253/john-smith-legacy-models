@@ -1,0 +1,257 @@
+Update 1 - v1.0 - 10.08.2016
+ -Rails (flat(4 variants), curved(3 variants) and raised)
+ -Activator rails (powered and unpowered, flat and raised)
+ -Detector rails (powered and unpowered, flat and raised)
+ -Powered rails (powered and unpowered, flat and raised)
+ -Oak leaves (3 variants)
+ -Birch leaves (3 variants)
+ -Acacia leaves (3 variants)
+ -Dark oak leaves (3 variants)
+ -Jungle leaves (3 variants)
+ -Spruce leaves (9 variants)
+ -Grass block (6 variants)
+
+Update 2 - v1.1 - 12.08.2016
+ -Tnt
+ -Torch (standing and wall)
+ -Redstone torch (on and off, standind and wall)
+
+Update 3 - v1.2 - 22.08.2016
+ -Sugar cane
+ -Red tulip (2/4 variants)
+ -Red tulip in pot (8/16 variants)
+ -Flower pot (4 variants)
+
+Update 4 - v1.2.1 - 22.08.2016
+ -Fixed a small error with jungle leaves
+
+Update 5 - v1.2.2 - 27.08.2016
+ -Variant of red tulip (now 3/4 variants)
+ -4 variants of red tulip in pot (now 12/16 variants)
+
+Update 6 - v1.2.3 -29.09.2016
+ -Small bugfix - sugar cane
+
+Update 7 - v1.3 - 31.10.2016
+ -Oak door
+ -Oak trapdoor
+
+Update 8 -v1.4 - 05.11.2016
+ -Small change to oak door item model
+
+Update 9 -v1.4.1 - 18.11.2016
+ -Fixes for oak and dark oak door models
+ -Spruce door
+ -1.11 compatibility
+
+Update 10 -v1.5 - 24.12.2016
+ -Spruce fence
+ -Spruce fence gate
+
+Update 11 -v1.6 - 01.01.2017
+ -Bookshelf (3 variants)
+
+Update 12 -v1.7 - 30.07.2017
+ -Chiseled stone brick
+ -Stone slab (half, upper, double +variants)
+ -Edited all kinds of rails
+ -Small edit to redstone torches
+
+Update 13 -v2.0 - 24.07.2018
+ -1.13 compatibility
+ -Wheat (8 stages)
+ -Acacia door
+ -Birch door
+ -Dark oak door
+ -Iron door
+ -Jungle door
+ -Iron trapdoor
+ -Allium (4 variants)
+ -Potted allium (4 variants)
+ -Azure bluet
+ -Potted azure bluet (4 variants)
+ -Bricks (4 variants)
+ -Brick slab (4 variants)
+ -Brick stairs
+ -Cactus (2 variants)
+ -Potted cactus (4 variants)
+ -Stone bricks (3 variants)
+ -Stone brick slab
+ -Stone brick stairs
+ -Mossy stone bricks (8 variants)
+ -Cracked stone bricks (7 variants)
+ -Crafting table
+ -Furnace
+ -Dandelion (2 variants)
+ -Potted dandelion (4 variants)
+ -Fern (2 variants)
+ -Large fern
+ -Last variant of red tulip (now 4 variants)
+ -Variants of potted red tulip (now 16 variants)
+ -Pink tulip (4 variants)
+ -Potted pink tulip (16 variants)
+ -White tulip (4 variants)
+ -Potted white tulip (16 variants)
+ -Orange tulip (4 variants)
+ -Potted orange tulip (16 variants)
+ -Tall grass (7 variants)
+ -Tripwire
+ -Poppy (2 variants)
+ -Potted poppy (4 variants)
+ -Podzol (5 variants)
+ -Grass (14 variants)
+ -Redstone dust
+
+Update 14 -v2.0.1 -04.08.2018
+ -Bugfixes
+
+Update 15 -v2.0.2 -23.08.2018
+ -Bugfixes
+
+Update 16 -v2.1 - 26.05.2019
+ -1.14 compatibility
+ -All sandstone and red sandstone blocks, stairs etc.
+
+Update 17 -v2.1.1 - 26.05.2019
+ -Bugfix
+
+Update 18 -v2.1.2 - 28.05.2019
+ -Bugfix
+
+Update 19 -v3.0 - 24.11.2020
+ -1.16 compatibility
+Added:
+ -Crimson door
+ -Warped door
+ -Soul torch (standing and wall)
+ -Spruce trapdoor
+ -Birch trapdoor
+ -Jungle trapdoor
+ -Acacia trapdoor
+ -Dark oak trapdoor
+ -Crimson trapdoor
+ -Oak fence
+ -Oak fence gate
+ -Glowstone
+ -Redstone lamp (on and off)
+ -Sea lantern
+ -Iron block
+ -Redstone block
+ -Lapis lazuli block
+ -Gold block
+ -Emerald block
+ -Diamond block
+ -Netherite block
+ -End stone bricks
+ -End stone brick slab
+ -End stone brick stairs
+ -End stone brick wall
+ -Mossy stone brick slab
+ -Mossy stone brick stairs
+ -Mossy stone brick wall
+ -Stone brick wall
+ -Nether bricks
+ -Nether brick slab
+ -Nether brick stairs
+ -Nether brick wall
+ -Red nether bricks
+ -Red nether brick slab
+ -Red nether brick stairs
+ -Red nether brick wall
+ -Chiseled nether bricks
+ -Brick wall
+ -Sandstone wall
+ -Red sandstone wall
+ -Bamboo
+ -Nether sprouts
+ -Warped roots
+ -Potted warped roots
+ -Crimson roots
+ -Potted crimson roots
+ -Peony
+ -Rose bush
+ -Lilac
+ -Lily of the valley
+ -Potted lily of the valley
+ -Cornflower
+ -Potted cornflower
+ -Dead bush
+ -Potted dead bush
+ -Barrel
+ -Smoker
+ -Blast furnace
+ -Cartography table
+ -Fletching table
+ -Grindstone
+ -Smithing table
+ -Stonecutter
+ -Lantern
+ -Soul lantern
+Fixed:
+ -Rails
+ -Bookshelf
+ -Sugar cane
+
+Update 20 -v3.0.1 - 25.11.2020
+ -Bugfixes (torch, detector rail, potted fern, red sandsone stairs, smooth stone)
+
+Update 21 -v3.1 - 06.12.2020
+ -Fixed iron sword particle texture
+ -Fixes and changes to OptiFine overlays
+ -Polished blackstone
+ -Chiseled polished blackstone
+ -Polished blackstone slab
+ -Polished blackstone bricks
+ -Polished blackstone brick slab
+ -Polished blackstone brick stairs
+ -Polished blackstone brick wall
+ -Cracked polished blackstone bricks
+
+Update 22 -v3.1.1 - 07.12.2020
+ -Another bugfix to OptiFine overlays
+
+Update 23 -v3.1.2 - 13.12.2020
+ -Fixed culling issues in: stone brick slabs, end stone brick slabs, polished blackstone brick slabs, smooth stone slabs, brick slabs, and the stonecutter
+
+Update 24 -v3.2 - 31.10.2021
+-1.17 compatibility
+Added:
+ -Chiseled deepslate
+ -Deepslate tiles
+ -Cracked deepslate tiles
+ -Deepslate tile stairs
+ -Deepslate tile slab
+ -Deepslate tile wall
+ -Cracked deepslate bricks
+ -Deepslate bricks
+ -Deepslate brick stairs
+ -Deepslate brick stairs
+ -Deepslate brick slab
+ -Deepslate brick wall
+ -Polished deepslate
+ -Polished deepslate slab
+ -Azalea leaves
+ -Flowering azalea leaves
+
+Update 25 -v3.2.1 - 01.11.2021
+ -Fixed grindstone, hanging lantern and hanging soul lantern
+ 
+Update 26 -v3.3 - 02.03.2022
+ -1.18 compatibility
+ -Quartz pillar
+ -Fixed spruce fence and oak fence
+ 
+Update 27 -v3.3.1 - 12.06.2022
+ -Fixed barrel
+ 
+Update 28 -v3.4 - 13.06.2022
+ -1.19 compatibility
+ -Mangrove leaves
+
+Update 29 -v3.4.1 - 23.12.2022
+ -1.19.3 compatibility
+
+Update 30 -v3.5 - 29.09.2024
+ -1.21.1 compatibility
+ -Fixed Grass (Short Grass)
+ -Sweet Berry Bush

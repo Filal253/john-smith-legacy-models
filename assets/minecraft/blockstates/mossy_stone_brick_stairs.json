@@ -1,0 +1,205 @@
+{
+    "__comment": "Created by Filal",
+    "variants": {
+        "facing=east,half=bottom,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_e" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_e4" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_e5" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_e6" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_e7" }
+		],
+        "facing=west,half=bottom,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_w" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_w4" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_w5" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_w6" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_w7" }
+		],
+        "facing=south,half=bottom,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_s" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_s4" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_s5" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_s6" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_s7" }
+		],
+        "facing=north,half=bottom,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_n" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_n4" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_n5" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_n6" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_n7" }
+		],
+        "facing=east,half=bottom,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se4" }
+		],
+        "facing=west,half=bottom,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw4" }
+		],
+        "facing=south,half=bottom,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw4" }
+		],
+        "facing=north,half=bottom,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne4" }
+		],
+        "facing=east,half=bottom,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_ne4" }
+		],
+        "facing=west,half=bottom,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_sw4" }
+		],
+        "facing=south,half=bottom,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_se4" }
+		],
+        "facing=north,half=bottom,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_nw4" }
+		],
+        "facing=east,half=bottom,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_nw5" }
+		],
+        "facing=west,half=bottom,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_se5" }
+		],
+        "facing=south,half=bottom,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_ne5" }
+		],
+        "facing=north,half=bottom,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_sw5" }
+		],
+        "facing=east,half=bottom,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_sw5" }
+		],
+        "facing=west,half=bottom,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_ne5" }
+		],
+        "facing=south,half=bottom,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_nw5" }
+		],
+        "facing=north,half=bottom,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_se5" }
+		],
+        "facing=east,half=top,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_e" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_e1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_e2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_e3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_e4" }
+		],
+        "facing=west,half=top,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_w" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_w1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_w2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_w3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_w4" }
+		],
+        "facing=south,half=top,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_s" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_s1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_s2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_s3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_s4" }
+		],
+        "facing=north,half=top,shape=straight": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_n" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_n1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_n2" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_n3" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_top_n4" }
+		],
+        "facing=east,half=top,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_se2" }
+		],
+        "facing=west,half=top,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_nw2" }
+		],
+        "facing=south,half=top,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_sw2" }
+		],
+        "facing=north,half=top,shape=outer_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_ne2" }
+		],
+        "facing=east,half=top,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_ne2" }
+		],
+        "facing=west,half=top,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_sw2" }
+		],
+        "facing=south,half=top,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_se2" }
+		],
+        "facing=north,half=top,shape=outer_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_outer_top_nw2" }
+		],
+        "facing=east,half=top,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_nw2" }
+		],
+        "facing=west,half=top,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_se2" }
+		],
+        "facing=south,half=top,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_ne2" }
+		],
+        "facing=north,half=top,shape=inner_right": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_sw2" }
+		],
+        "facing=east,half=top,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_sw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_sw2" }
+		],
+        "facing=west,half=top,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_ne1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_ne2" }
+		],
+        "facing=south,half=top,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_nw1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_nw2" }
+		],
+        "facing=north,half=top,shape=inner_left": [
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_se1" },
+			{ "model": "minecraft:block/mossy_stone_brick_stairs_inner_top_se2" }
+		]
+    }
+}

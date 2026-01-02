@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+            { "model": "minecraft:block/resin_brick_slab" },
+            { "model": "minecraft:block/resin_brick_slab1" },
+            { "model": "minecraft:block/resin_brick_slab2" },
+            { "model": "minecraft:block/resin_brick_slab3" }
+        ],
+        "type=top": [
+            { "model": "minecraft:block/resin_brick_slab_top" },
+            { "model": "minecraft:block/resin_brick_slab_top1" },
+            { "model": "minecraft:block/resin_brick_slab_top2" },
+            { "model": "minecraft:block/resin_brick_slab_top3" }
+        ],
+        "type=double": [
+            { "model": "minecraft:block/resin_bricks" },
+            { "model": "minecraft:block/resin_bricks1" },
+            { "model": "minecraft:block/resin_bricks2" },
+            { "model": "minecraft:block/resin_bricks3" }
+        ]
+    }
+}

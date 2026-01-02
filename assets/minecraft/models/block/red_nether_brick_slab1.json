@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/nether_brick_slab",    "textures": {        "particle": "minecraft:block/red_nether_brick_slab_side",		"0": "minecraft:block/red_nether_brick_slab_side",		"1": "minecraft:block/red_nether_bricks_top1",		"2": "minecraft:block/red_nether_brick_slab_bottom"    }}

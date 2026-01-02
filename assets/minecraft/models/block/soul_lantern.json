@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/lantern",    "textures": {        "particle": "minecraft:block/soul_lantern",        "all": "minecraft:block/soul_lantern"    }}

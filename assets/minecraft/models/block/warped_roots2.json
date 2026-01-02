@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/fern",    "textures": {        "particle": "minecraft:block/warped_roots2",        "0": "minecraft:block/warped_roots2"    }}

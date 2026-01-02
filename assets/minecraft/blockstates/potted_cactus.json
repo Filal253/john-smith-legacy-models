@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "minecraft:block/potted_cactus" },
+			{ "model": "minecraft:block/potted_cactus1" },
+			{ "model": "minecraft:block/potted_cactus2" },
+			{ "model": "minecraft:block/potted_cactus3" }
+		]
+    }
+}

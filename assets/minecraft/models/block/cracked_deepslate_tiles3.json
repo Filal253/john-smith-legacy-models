@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/bricks3",    "textures": {        "particle": "minecraft:block/cracked_deepslate_tiles3",		"0": "minecraft:block/cracked_deepslate_tiles3",		"1": "minecraft:block/cracked_deepslate_tiles_top",		"2": "minecraft:block/cracked_deepslate_tiles_bottom"    }}

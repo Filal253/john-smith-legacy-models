@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+            { "model": "minecraft:block/polished_deepslate_slab", "weight": 7 },
+            { "model": "minecraft:block/polished_deepslate_slab1", "weight": 3 },
+            { "model": "minecraft:block/polished_deepslate_slab2", "weight": 1 },
+            { "model": "minecraft:block/polished_deepslate_slab3", "weight": 3 }
+        ],
+        "type=top": [
+            { "model": "minecraft:block/polished_deepslate_slab_top", "weight": 7 },
+            { "model": "minecraft:block/polished_deepslate_slab_top1", "weight": 3 },
+            { "model": "minecraft:block/polished_deepslate_slab_top2", "weight": 1 },
+            { "model": "minecraft:block/polished_deepslate_slab_top3", "weight": 1 }
+        ],
+        "type=double": [
+            { "model": "minecraft:block/polished_deepslate_slab_double", "weight": 7 },
+            { "model": "minecraft:block/polished_deepslate_slab_double1", "weight": 3 },
+            { "model": "minecraft:block/polished_deepslate_slab_double3", "weight": 3 },
+            { "model": "minecraft:block/polished_deepslate_slab_double2", "weight": 1 }
+        ]
+    }
+}

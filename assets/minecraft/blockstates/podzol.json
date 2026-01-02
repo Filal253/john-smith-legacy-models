@@ -1,0 +1,24 @@
+{
+    "__comment": "Created by Filal",
+    "variants": {
+        "snowy=false": [
+             { "model": "minecraft:block/podzol", "weight": 60 },
+             { "model": "minecraft:block/podzol1", "weight": 30 },
+             { "model": "minecraft:block/podzol2", "weight": 2 },
+             { "model": "minecraft:block/podzol2", "y": 90, "weight": 2 },
+             { "model": "minecraft:block/podzol2", "y": 180, "weight": 2 },
+             { "model": "minecraft:block/podzol2", "y": 270, "weight": 2 },
+             { "model": "minecraft:block/podzol3", "weight": 2 },
+             { "model": "minecraft:block/podzol3", "y": 90, "weight": 2 },
+             { "model": "minecraft:block/podzol3", "y": 180, "weight": 2 },
+             { "model": "minecraft:block/podzol3", "y": 270, "weight": 2 },
+             { "model": "minecraft:block/podzol4", "weight": 2 },
+             { "model": "minecraft:block/podzol4", "y": 90, "weight": 2 },
+             { "model": "minecraft:block/podzol4", "y": 180, "weight": 2 },
+             { "model": "minecraft:block/podzol4", "y": 270, "weight": 2 }
+        ],
+        "snowy=true": [
+             { "model": "minecraft:block/grass_block_snow" }
+        ]
+    }
+}

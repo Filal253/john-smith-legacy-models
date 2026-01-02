@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {   "apply": { "model": "minecraft:block/oak_fence_post" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "minecraft:block/oak_fence_north" }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "minecraft:block/oak_fence_south" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "minecraft:block/oak_fence_south", "y": 90 }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "minecraft:block/oak_fence_north", "y": 90 }
+        }
+    ]
+}

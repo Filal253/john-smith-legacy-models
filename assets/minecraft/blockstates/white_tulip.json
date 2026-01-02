@@ -1,0 +1,23 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "": [
+            { "model": "minecraft:block/white_tulip1" },
+            { "model": "minecraft:block/white_tulip1", "y": 90 },
+            { "model": "minecraft:block/white_tulip1", "y": 180 },
+            { "model": "minecraft:block/white_tulip1", "y": 270 },
+            { "model": "minecraft:block/white_tulip2" },
+            { "model": "minecraft:block/white_tulip2", "y": 90 },
+            { "model": "minecraft:block/white_tulip2", "y": 180 },
+            { "model": "minecraft:block/white_tulip2", "y": 270 },
+            { "model": "minecraft:block/white_tulip" },
+            { "model": "minecraft:block/white_tulip", "y": 90 },
+            { "model": "minecraft:block/white_tulip", "y": 180 },
+            { "model": "minecraft:block/white_tulip", "y": 270 },
+            { "model": "minecraft:block/white_tulip3" },
+            { "model": "minecraft:block/white_tulip3", "y": 90 },
+            { "model": "minecraft:block/white_tulip3", "y": 180 },
+            { "model": "minecraft:block/white_tulip3", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_brick_stairs_inner_top_se",    "textures": {        "particle": "minecraft:block/deepslate_bricks2",        "0": "minecraft:block/deepslate_bricks2"    }}

@@ -1,0 +1,78 @@
+{
+	"__comment": "Created by Filal",
+	"textures": {
+		"particle": "minecraft:block/fern",
+		"0": "minecraft:block/fern"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 6.5 ],
+			"to": [ 16, 16, 6.501 ],
+			"rotation": { "origin": [ 0, 0, 6.5 ], "axis": "y", "angle": -22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 0, 10 ],
+			"to": [ 16, 16, 10.001 ],
+			"rotation": { "origin": [ 0, 0, 10 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 8.5, 0, -0.5001 ],
+			"to": [ 8.501, 16, 15.4999 ],
+			"rotation": { "origin": [ 8.5, 0, 15.5 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 4, 0, 0 ],
+			"to": [ 4.001, 16, 16 ],
+			"rotation": { "origin": [ 4, 0, 16 ], "axis": "y", "angle": -22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 0, 4 ],
+			"to": [ 16, 16, 4.001 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 14, 0, -1.5 ],
+			"to": [ 14.001, 16, 14.5 ],
+			"rotation": { "origin": [ 14, 0, 14.5 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 0, 10 ],
+			"to": [ 16, 16, 10.001 ],
+			"rotation": { "origin": [ 0, 0, 10 ], "axis": "y", "angle": 0 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/smooth_stone",    "textures": {        "particle": "minecraft:block/polished_deepslate",        "1": "minecraft:block/polished_deepslate"    }}

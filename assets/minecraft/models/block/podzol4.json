@@ -1,0 +1,64 @@
+{
+	"__comment": "Created by Filal",
+	"textures": {
+		"particle": "minecraft:block/podzol_side",
+		"0": "minecraft:block/podzol_side",
+		"1": "minecraft:block/podzol_top2",
+		"2": "minecraft:block/dirt",
+		"3": "minecraft:block/oak_log"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#2", "cullface": "down" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#1", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "cullface": "south" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "cullface": "west" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Box16",
+			"from": [ 6, 16, 4.5 ],
+			"to": [ 11, 16.5, 5 ],
+			"rotation": { "origin": [ 7.5, 16, 4.5 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"up": { "uv": [ 5, 9.5, 10, 10 ], "texture": "#3", "cullface": "up" },
+				"north": { "uv": [ 5, 15.5, 10, 16 ], "texture": "#3", "cullface": "up" },
+				"south": { "uv": [ 6, 15.5, 11, 16 ], "texture": "#3", "cullface": "up" },
+				"west": { "uv": [ 4.5, 15.5, 5, 16 ], "texture": "#3", "cullface": "up" },
+				"east": { "uv": [ 11, 15.5, 11.5, 16 ], "texture": "#3", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "Box16",
+			"from": [ 7.5, 16, 4.5 ],
+			"to": [ 10, 16.498, 5 ],
+			"rotation": { "origin": [ 7.5, 16, 4.5 ], "axis": "y", "angle": 0 },
+			"faces": {
+				"up": { "uv": [ 5, 9.5, 7.5, 10 ], "texture": "#3", "cullface": "up" },
+				"north": { "uv": [ 5, 15.5, 7.5, 16 ], "texture": "#3", "cullface": "up" },
+				"south": { "uv": [ 6, 15.5, 8.5, 16 ], "texture": "#3", "cullface": "up" },
+				"west": { "uv": [ 4.5, 15.5, 5, 16 ], "texture": "#3", "cullface": "up" },
+				"east": { "uv": [ 11, 15.5, 11.5, 16 ], "texture": "#3", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "Box16",
+			"from": [ 7.6267, 16, 6.1125 ],
+			"to": [ 8.126699, 16.498, 9.112499 ],
+			"rotation": { "origin": [ 7.5, 16, 4.5 ], "axis": "y", "angle": 22.5 },
+			"faces": {
+				"up": { "uv": [ 5, 9.5, 8, 10 ], "texture": "#3", "cullface": "up", "rotation": 90 },
+				"north": { "uv": [ 4.5, 15.5, 5, 16 ], "texture": "#3", "cullface": "up" },
+				"south": { "uv": [ 11, 15.5, 11.5, 16 ], "texture": "#3", "cullface": "up" },
+				"west": { "uv": [ 6, 15.5, 9, 16 ], "texture": "#3", "cullface": "up" },
+				"east": { "uv": [ 5, 15.5, 8, 16 ], "texture": "#3", "cullface": "up" }
+			}
+		}
+	]
+}

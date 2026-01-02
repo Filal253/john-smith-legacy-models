@@ -1,0 +1,79 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "minecraft:block/redstone_dust_dot",
+        "overlay": "minecraft:block/redstone_dust_overlay"
+    },
+    "elements": [
+        {   "from": [ 0, 0.1, 0 ],
+            "to": [ 16, 0.1, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#line", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 0.1, 0 ],
+            "to": [ 16, 0.1, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#overlay" }
+            }
+        },
+        {   "from": [ 0, 0.2, 0 ],
+            "to": [ 16, 0.2, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#line", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 0.2, 0 ],
+            "to": [ 16, 0.2, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#overlay" }
+            }
+        },
+        {   "from": [ 0, 0.3, 0 ],
+            "to": [ 16, 0.3, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#line", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 0.3, 0 ],
+            "to": [ 16, 0.3, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#overlay" }
+            }
+        },
+        {   "from": [ 0, 0.4, 0 ],
+            "to": [ 16, 0.4, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#line", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 0.4, 0 ],
+            "to": [ 16, 0.4, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#overlay" }
+            }
+        },
+        {   "from": [ 0, 0.502, 0 ],
+            "to": [ 16, 0.502, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#line", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 0.502, 0 ],
+            "to": [ 16, 0.502, 8 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 8 ], "texture": "#overlay" }
+            }
+        }
+    ]
+}

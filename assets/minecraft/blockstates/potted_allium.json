@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+			{ "model": "minecraft:block/potted_allium3" },
+			{ "model": "minecraft:block/potted_allium3", "y": 90 },
+			{ "model": "minecraft:block/potted_allium3", "y": 180 },
+			{ "model": "minecraft:block/potted_allium3", "y": 270 },
+			{ "model": "minecraft:block/potted_allium2" },
+			{ "model": "minecraft:block/potted_allium2", "y": 90 },
+			{ "model": "minecraft:block/potted_allium2", "y": 180 },
+			{ "model": "minecraft:block/potted_allium2", "y": 270 },
+			{ "model": "minecraft:block/potted_allium1" },
+			{ "model": "minecraft:block/potted_allium1", "y": 90 },
+			{ "model": "minecraft:block/potted_allium1", "y": 180 },
+			{ "model": "minecraft:block/potted_allium1", "y": 270 },
+			{ "model": "minecraft:block/potted_allium" },
+			{ "model": "minecraft:block/potted_allium", "y": 90 },
+			{ "model": "minecraft:block/potted_allium", "y": 180 },
+			{ "model": "minecraft:block/potted_allium", "y": 270 }
+		]
+    }
+}

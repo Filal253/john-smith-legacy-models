@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/large_fern_bottom",    "textures": {        "particle": "minecraft:block/short_grass12",        "0": "minecraft:block/short_grass12"    }}

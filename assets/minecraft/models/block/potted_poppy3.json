@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/potted_poppy",    "textures": {        "particle": "minecraft:block/flower_pot3",        "1": "minecraft:block/flower_pot3"    }}

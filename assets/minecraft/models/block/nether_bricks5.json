@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/nether_bricks",    "textures": {        "particle": "minecraft:block/nether_bricks5",        "0": "minecraft:block/nether_bricks5",        "1": "minecraft:block/nether_bricks_top2"    }}

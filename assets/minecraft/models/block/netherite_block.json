@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/redstone_block",    "textures": {        "particle": "minecraft:block/netherite_block",        "0": "minecraft:block/netherite_block"    }}

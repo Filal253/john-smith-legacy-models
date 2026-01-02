@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/fern",    "textures": {        "particle": "minecraft:block/bamboo_large_leaves",        "0": "minecraft:block/bamboo_large_leaves"    }}

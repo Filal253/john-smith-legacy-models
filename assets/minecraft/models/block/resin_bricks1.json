@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/resin_bricks",    "textures": {		"particle": "minecraft:block/resin_bricks1",		"0": "minecraft:block/resin_bricks1",		"1": "minecraft:block/resin_bricks_top",		"2": "minecraft:block/resin_bricks_bottom"    }}

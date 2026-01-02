@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_bricks1",    "textures": {        "particle": "minecraft:block/end_stone_bricks1",        "0": "minecraft:block/end_stone_bricks1"    }}

@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/brick_wall_s",    "textures": {        "particle": "minecraft:block/deepslate_tiles",        "0": "minecraft:block/deepslate_tiles",        "1": "minecraft:block/deepslate_tiles_top",		"2": "minecraft:block/deepslate_tiles_bottom"	}}

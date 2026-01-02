@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/oak_leaves2",    "textures": {        "particle": "minecraft:block/spruce_leaves2",        "bleaves": "minecraft:block/better_leaves_spruce",        "block": "minecraft:block/spruce_leaves2"    }}

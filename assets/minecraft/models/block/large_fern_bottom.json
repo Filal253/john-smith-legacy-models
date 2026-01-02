@@ -1,0 +1,85 @@
+{
+	"__comment": "Created by Filal",
+	"textures": {
+		"particle": "minecraft:block/large_fern_bottom",
+		"0": "minecraft:block/large_fern_bottom"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 1, 0, 5 ],
+			"to": [ 17, 16, 5.001 ],
+			"rotation": { "origin": [ 1, 0, 5 ], "axis": "y", "angle": -22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 1, 0, 11 ],
+			"to": [ 17, 16, 11.001 ],
+			"rotation": { "origin": [ 1, 0, 11 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 9.5, 0, -2.0001 ],
+			"to": [ 9.501, 16, 13.9999 ],
+			"rotation": { "origin": [ 9.5, 0, 14 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 5, 0, -1.5 ],
+			"to": [ 5.001, 16, 14.5 ],
+			"rotation": { "origin": [ 5, 0, 14.5 ], "axis": "y", "angle": -22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 1, 0, 2.5 ],
+			"to": [ 17, 16, 2.501 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 15, 0, -3 ],
+			"to": [ 15.001, 16, 13 ],
+			"rotation": { "origin": [ 15, 0, 13 ], "axis": "y", "angle": 22.5, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 1, 0, 8.5 ],
+			"to": [ 17, 16, 8.501 ],
+			"rotation": { "origin": [ 1, 0, 8.5 ], "axis": "y", "angle": 0 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0", "tintindex": 0 }
+			}
+		}
+	]
+}

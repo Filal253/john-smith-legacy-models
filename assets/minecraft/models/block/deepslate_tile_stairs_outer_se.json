@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/brick_stairs_outer_se",    "textures": {        "particle": "minecraft:block/deepslate_tiles_stairs_side",		"0": "minecraft:block/deepslate_tiles_stairs_side",		"1": "minecraft:block/deepslate_tiles_stairs_top",		"2": "minecraft:block/deepslate_tiles_stairs_bottom"    }}

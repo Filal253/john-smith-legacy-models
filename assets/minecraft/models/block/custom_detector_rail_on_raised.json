@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/custom_detector_rail_raised",    "textures": {        "detector": "minecraft:block/custom_detector_rail_on"    }}

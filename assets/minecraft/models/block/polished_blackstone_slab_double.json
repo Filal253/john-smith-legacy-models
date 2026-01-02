@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/smooth_stone_slab_double",    "textures": {        "particle": "minecraft:block/polished_blackstone",		"side": "minecraft:block/polished_blackstone_slab_side",        "top": "minecraft:block/polished_blackstone"    }}

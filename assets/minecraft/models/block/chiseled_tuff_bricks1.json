@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/chiseled_tuff_bricks",    "textures": {        "particle": "minecraft:block/chiseled_tuff_bricks1",        "0": "minecraft:block/chiseled_tuff_bricks_top1",        "1": "minecraft:block/chiseled_tuff_bricks1"    }}

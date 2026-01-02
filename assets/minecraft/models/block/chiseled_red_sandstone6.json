@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/chiseled_sandstone",    "textures": {		"particle": "minecraft:block/chiseled_red_sandstone6",		"0": "minecraft:block/red_sandstone_top",		"1": "minecraft:block/chiseled_red_sandstone6"    }}

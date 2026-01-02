@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/chiseled_stone_bricks",    "textures": {        "particle": "minecraft:block/chiseled_deepslate1",        "block": "minecraft:block/chiseled_deepslate1"    }}

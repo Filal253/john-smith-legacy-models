@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_brick_slab",    "textures": {        "particle": "minecraft:block/deepslate_bricks6",        "0": "minecraft:block/deepslate_bricks6"    }}

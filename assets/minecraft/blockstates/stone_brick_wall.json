@@ -1,0 +1,32 @@
+{
+    "__comment": "Created by Filal",
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_post" }
+        },
+        {   "when": { "north": "low" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_n" }
+        },
+        {   "when": { "north": "tall" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_n_tall" }
+        },
+        {   "when": { "east": "low" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_n", "y": 90 }
+        },
+        {   "when": { "east": "tall" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_n_tall", "y": 90 }
+        },
+        {   "when": { "south": "low" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_s" }
+        },
+        {   "when": { "south": "tall" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_s_tall" }
+        },
+        {   "when": { "west": "low" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_s", "y": 90 }
+        },
+        {   "when": { "west": "tall" },
+            "apply": { "model": "minecraft:block/stone_brick_wall_s_tall", "y": 90 }
+        }
+    ]
+}

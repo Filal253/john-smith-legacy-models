@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/sandstone_stairs_inner_top_ne",    "textures": {        "particle": "minecraft:block/red_sandstone1",        "1": "minecraft:block/red_sandstone1",        "2": "minecraft:block/red_sandstone_top1"    }}

@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/grass_block",    "textures": {        "bg1": "minecraft:block/better_grass3",        "bg1": "minecraft:block/better_grass4"    }}

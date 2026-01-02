@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/wall_torch",    "textures": {        "particle": "minecraft:block/copper_torch3",        "0": "minecraft:block/copper_torch3"    }}

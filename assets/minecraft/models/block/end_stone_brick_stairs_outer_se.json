@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_brick_stairs_outer_se",    "textures": {        "particle": "minecraft:block/end_stone_bricks",        "0": "minecraft:block/end_stone_bricks"    }}

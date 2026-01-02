@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/stone_brick_stairs_n",    "textures": {        "particle": "minecraft:block/polished_blackstone_bricks",        "0": "minecraft:block/polished_blackstone_bricks"    }}

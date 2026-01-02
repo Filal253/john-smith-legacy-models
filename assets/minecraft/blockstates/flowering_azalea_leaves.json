@@ -1,0 +1,16 @@
+{
+    "__comment": "Created by Filal",
+    "variants": {
+        "":  [
+            { "model": "minecraft:block/flowering_azalea_leaves" },
+            { "model": "minecraft:block/flowering_azalea_leaves2" },
+            { "model": "minecraft:block/flowering_azalea_leaves2", "y": 90 },
+            { "model": "minecraft:block/flowering_azalea_leaves2", "y": 180 },
+            { "model": "minecraft:block/flowering_azalea_leaves2", "y": 270 },
+            { "model": "minecraft:block/flowering_azalea_leaves1" },
+            { "model": "minecraft:block/flowering_azalea_leaves1", "y": 90 },
+            { "model": "minecraft:block/flowering_azalea_leaves1", "y": 180 },
+            { "model": "minecraft:block/flowering_azalea_leaves1", "y": 270 }
+        ]
+    }
+}

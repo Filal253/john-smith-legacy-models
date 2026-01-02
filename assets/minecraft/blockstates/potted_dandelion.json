@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+			{ "model": "minecraft:block/potted_dandelion" },
+			{ "model": "minecraft:block/potted_dandelion", "y": 90 },
+			{ "model": "minecraft:block/potted_dandelion", "y": 180 },
+			{ "model": "minecraft:block/potted_dandelion", "y": 270 },
+			{ "model": "minecraft:block/potted_dandelion1" },
+			{ "model": "minecraft:block/potted_dandelion1", "y": 90 },
+			{ "model": "minecraft:block/potted_dandelion1", "y": 180 },
+			{ "model": "minecraft:block/potted_dandelion1", "y": 270 },
+			{ "model": "minecraft:block/potted_dandelion2" },
+			{ "model": "minecraft:block/potted_dandelion2", "y": 90 },
+			{ "model": "minecraft:block/potted_dandelion2", "y": 180 },
+			{ "model": "minecraft:block/potted_dandelion2", "y": 270 },
+			{ "model": "minecraft:block/potted_dandelion3" },
+			{ "model": "minecraft:block/potted_dandelion3", "y": 90 },
+			{ "model": "minecraft:block/potted_dandelion3", "y": 180 },
+			{ "model": "minecraft:block/potted_dandelion3", "y": 270 }
+		]
+    }
+}

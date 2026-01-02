@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/potted_fern" },
+            { "model": "minecraft:block/potted_fern", "y": 90 },
+            { "model": "minecraft:block/potted_fern", "y": 180 },
+            { "model": "minecraft:block/potted_fern", "y": 270 },
+            { "model": "minecraft:block/potted_fern_1" },
+            { "model": "minecraft:block/potted_fern_1", "y": 90 },
+            { "model": "minecraft:block/potted_fern_1", "y": 180 },
+            { "model": "minecraft:block/potted_fern_1", "y": 270 },
+            { "model": "minecraft:block/potted_fern_2" },
+            { "model": "minecraft:block/potted_fern_2", "y": 90 },
+            { "model": "minecraft:block/potted_fern_2", "y": 180 },
+            { "model": "minecraft:block/potted_fern_2", "y": 270 },
+            { "model": "minecraft:block/potted_fern_3" },
+            { "model": "minecraft:block/potted_fern_3", "y": 90 },
+            { "model": "minecraft:block/potted_fern_3", "y": 180 },
+            { "model": "minecraft:block/potted_fern_3", "y": 270 },
+            { "model": "minecraft:block/potted_fern1" },
+            { "model": "minecraft:block/potted_fern1", "y": 90 },
+            { "model": "minecraft:block/potted_fern1", "y": 180 },
+            { "model": "minecraft:block/potted_fern1", "y": 270 },
+            { "model": "minecraft:block/potted_fern1_1" },
+            { "model": "minecraft:block/potted_fern1_1", "y": 90 },
+            { "model": "minecraft:block/potted_fern1_1", "y": 180 },
+            { "model": "minecraft:block/potted_fern1_1", "y": 270 },
+            { "model": "minecraft:block/potted_fern1_2" },
+            { "model": "minecraft:block/potted_fern1_2", "y": 90 },
+            { "model": "minecraft:block/potted_fern1_2", "y": 180 },
+            { "model": "minecraft:block/potted_fern1_2", "y": 270 },
+            { "model": "minecraft:block/potted_fern1_3" },
+            { "model": "minecraft:block/potted_fern1_3", "y": 90 },
+            { "model": "minecraft:block/potted_fern1_3", "y": 180 },
+            { "model": "minecraft:block/potted_fern1_3", "y": 270 }
+        ]
+    }
+}

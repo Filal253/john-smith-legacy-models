@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/redstone_lamp_on",	"textures": {		"particle": "minecraft:block/sea_lantern",		"0": "minecraft:block/sea_lantern_blank"	}}

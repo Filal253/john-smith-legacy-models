@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/potted_lily_of_the_valley2",    "textures": {		"3": "minecraft:block/flower_pot1",		"particle": "minecraft:block/flower_pot1"    }}

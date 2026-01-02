@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "minecraft:block/red_tulip",    "textures": {        "0": "minecraft:block/pink_tulip2",        "particle": "minecraft:block/pink_tulip2"    }}
