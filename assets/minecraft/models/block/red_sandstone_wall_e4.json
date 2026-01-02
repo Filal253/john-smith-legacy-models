@@ -1,0 +1,1 @@
+ {    "__comment": "Created by Filal",    "parent": "minecraft:block/sandstone_wall_e",    "textures": {        "particle": "minecraft:block/red_sandstone4",        "1": "minecraft:block/red_sandstone4",        "2": "minecraft:block/red_sandstone_top4",        "3": "minecraft:block/red_sandstone_bottom4"    }}
