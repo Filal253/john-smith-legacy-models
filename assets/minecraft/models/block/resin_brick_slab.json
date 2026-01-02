@@ -2,7 +2,7 @@
 	"__comment": "Created by Filal",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/bricks",
+		"particle": "block/resin_bricks",
 		"0": "block/resin_bricks",
 		"1": "block/resin_bricks_top",
 		"2": "block/resin_bricks_bottom"
