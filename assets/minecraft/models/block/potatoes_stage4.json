@@ -1,0 +1,8 @@
+{
+	"__comment": "Created by Filal",
+	"parent": "minecraft:block/carrots_stage5",
+	"textures": {
+		"particle": "minecraft:block/potatoes_stage4",
+		"0": "minecraft:block/potatoes_stage4"
+	}
+}

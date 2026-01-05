@@ -1,0 +1,8 @@
+{
+	"__comment": "Created by Filal",
+	"parent": "minecraft:block/wheat_stage0",
+	"textures": {
+		"particle": "minecraft:block/carrots_stage4",
+		"0": "minecraft:block/carrots_stage4"
+	}
+}
